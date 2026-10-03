@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Dental Sonrisa Serena",
+  "description": "Atención odontológica integral y especializada con tecnología de vanguardia, ortodoncia, estética dental, implantes y odontopediatría.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
